@@ -5,10 +5,12 @@
 body {
     background-color: #445abc;
 }
-.about_heder {
+.about_header {
     color: #22ab2a;
     font-size: 150px;
+    font-weight: bold;
 }
 .about_me {
-    opacity: 1;
+    display:none;
+    opacity: 0;
 }
