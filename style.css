@@ -23,6 +23,7 @@ body {
 }
 .nav-items {
     text-decoration: none;
+    list-style: none;
     float:right;
     display: none;
     text-align: center;
