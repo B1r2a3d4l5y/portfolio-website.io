@@ -16,7 +16,9 @@ body{
     opacity: 0;
 }
 .p-img {
-    position: relative;
-    height: 100px;
-    width: 100px;
+    display: flex;
+    position: relative ;
+    height: 200px;
+    width: 200px
+    
 }
